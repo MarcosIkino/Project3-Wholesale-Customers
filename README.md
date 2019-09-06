@@ -1,2 +1,2 @@
-# Project3-Wholesale-Customers
+Wholesale-Customers
 Segmenting customers behaviors in a wholesale distributor
